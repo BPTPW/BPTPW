@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BPTPW
 - 👋 大家好，我是 @BPTPW
-- 目前正在开发 Lyrycist 的项目
+- 目前正在开发 PiliPod 项目
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BPTPW&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
